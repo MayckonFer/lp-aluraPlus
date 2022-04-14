@@ -1,0 +1,20 @@
+@media (max-width: 1200px) {
+    .wrapper-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .image-content {
+        order: 1;
+    }
+
+    .description {
+        order: 2;
+        margin-top: 2rem;
+    }
+
+    .button-sign-comboPlus {
+        margin: 0 auto;
+        margin-top: 2rem;
+    }
+}
